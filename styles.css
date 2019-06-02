@@ -1,0 +1,51 @@
+body{
+    text-align:center;
+    font-size:50px;
+}
+h1{
+    font-family:'Kumar One Outline',cursive;
+    color:#E6E6FA;
+    font-size:90px;
+    text-shadow: 2px 2px;
+    
+}
+p{
+    font-family:'Lily Script One', cursive, sans-serif;
+    color:#AFEEEE;
+}
+img{
+    height:500px;
+    border:dotted;
+}
+body{
+    background-image:url(https://data.whicdn.com/images/274798131/original.gif);
+}
+h2{
+    color:	#FF69B4;
+    font-family:'Lily Script One',cursive;
+}
+.BestCartoon{
+    font-size:70px;
+    text-decoration:overline;
+}
+.BestFemaleArtist{
+    font-size:70px;
+    text-decoration:overline;
+}
+.BestMarvelMovie{
+    font-size:70px;
+    text-decoration:overline;
+}
+.MaleArtistOfTheYear{
+    font-size:70px;
+    text-decoration:overline;
+}
+.TheBestShow{
+    font-size:70px;
+    text-decoration:overline;
+    text-shadow:3px 2px;
+    color:pink; 
+}
+a{
+    color:#fcbcb5;
+}
